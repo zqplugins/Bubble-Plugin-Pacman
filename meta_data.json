@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "media",
+        "2": "productivity",
+        "3": "technical",
+        "4": "artificial intelligence (AI)"
+    },
+    "demo_page": "https://pacmn.bubbleapps.io/version-test",
+    "description": "Long running loading state? Give your users something fun to do while they wait!\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706908049218x610985740882835800/Pacman.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Pacman",
+    "plugin_instructions": "Using this plugin is easy.\n\n1️⃣ Add the 'Pacman' element to your page. You can place it anywhere on the page that you want.\n\n2️⃣ Once the page has loaded, the game will be immediately playable. No need to do anything else!\n\nThat's it! Now you can enjoy playing Pacman on your website. Have fun! 👻🕹️",
+    "sa_node_version": 18
+}
